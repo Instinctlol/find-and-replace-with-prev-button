@@ -1,5 +1,5 @@
 {
-  "name": "find-and-replace",
+  "name": "find-and-replace-with-prev-button",
   "main": "./lib/find",
   "description": "Find and replace within buffers and across the project.",
   "version": "0.219.3",
@@ -26,7 +26,7 @@
       "find-and-replace:clear-history"
     ]
   },
-  "repository": "https://github.com/atom/find-and-replace",
+  "repository": "https://github.com/Instinctlol/find-and-replace-with-prev-button",
   "engines": {
     "atom": "*"
   },
